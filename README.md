@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300000,ff0000&height=260&section=header&text=Dev_Nand&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Red%20Team%20%7C%20Full%20Stack%20Python%20%7C%20AI%20Engineering&descAlignY=55&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300000,ff0000&height=280&section=header&text=&animation=fadeIn" width="100%"/>
 
-  <img src="./red_team_logo.svg" alt="Dev_Nand Red Team Logo" width="80%" />
+  <img src="./red_team_logo.svg" alt="AGENT 47 Logo" width="80%" />
 
   <h3>🛑 "Security is not a product — it's a process."</h3>
 
