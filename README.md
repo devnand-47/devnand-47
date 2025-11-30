@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300000,ff0000&height=280&section=header&text=&animation=fadeIn" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=DEV_NAND;RED+TEAM+OPERATIONS;FULL+STACK+PYTHON;AI+ENGINEER" alt="Typing SVG" />
+  </a>
 
   <img src="./red_team_logo.svg" alt="AGENT 47 Logo" width="80%" />
 
@@ -57,24 +59,25 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 📊 Skills & Proficiency
+### 📊 Proficiency (Stable Badges)
 <div align="center">
-
-  <img src="https://progress-bar.dev/80/?title=Python&width=500&color=e53e3e&suffix=%" alt="Python Progress" />
-  <br>
   
-  <img src="https://progress-bar.dev/75/?title=Linux&width=500&color=e53e3e&suffix=%" alt="Linux Progress" />
-  <br>
-
-  <img src="https://progress-bar.dev/60/?title=HTML&width=500&color=e53e3e&suffix=%" alt="HTML Progress" />
-  <br>
-
-  <img src="https://progress-bar.dev/50/?title=CSS&width=500&color=e53e3e&suffix=%" alt="CSS Progress" />
+  <img src="https://img.shields.io/badge/Python-80%25-red?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-75%25-red?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-60%25-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-50%25-red?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
 <br>
 
+### 📈 Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
