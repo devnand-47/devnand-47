@@ -58,9 +58,9 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 ### 📊 Analytics & Graphs
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=github-readme-stats" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=github-readme-stats&cache_seconds=0" height="180" alt="Top Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=0" height="180" alt="GitHub Stats" />
   
   <br>
 
