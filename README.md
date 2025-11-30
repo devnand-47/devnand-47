@@ -55,15 +55,24 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 📊 Analytics & Graphs
-
+### 📊 Skills & Proficiency
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=3&v=1)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://progress-bar.dev/80/?title=Python&width=500&color=e53e3e&suffix=%" alt="Python Progress" />
+  <br>
+  
+  <img src="https://progress-bar.dev/75/?title=Linux&width=500&color=e53e3e&suffix=%" alt="Linux Progress" />
+  <br>
+
+  <img src="https://progress-bar.dev/60/?title=HTML&width=500&color=e53e3e&suffix=%" alt="HTML Progress" />
+  <br>
+
+  <img src="https://progress-bar.dev/50/?title=CSS&width=500&color=e53e3e&suffix=%" alt="CSS Progress" />
 
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
