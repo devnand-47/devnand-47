@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300000,ff0000&height=320&section=header&text=AGENT%2047&desc=RED%20TEAM%20OPERATIONS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300000,ff0000&height=260&section=header&text=Dev_Nand&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Red%20Team%20%7C%20Full%20Stack%20Python%20%7C%20AI%20Engineering&descAlignY=55&descSize=22" width="100%"/>
 
   <h3>🛑 "Security is not a product — it's a process."</h3>
 
@@ -55,23 +55,20 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 📊 Proficiency (Stable Badges)
+### 📊 Analytics & Graphs
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-80%25-red?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-75%25-red?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-60%25-red?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-50%25-red?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=github-readme-stats" height="180" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="GitHub Stats" />
+  
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" height="180" alt="Streak Stats" />
+
 </div>
 
 <br>
-
-### 📈 Activity
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
