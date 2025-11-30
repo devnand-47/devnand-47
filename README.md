@@ -41,19 +41,23 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools (The "Icon Bar")
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,pytorch,tensorflow,opencv,docker,kubernetes,linux,bash,git,mysql,postgres,mongodb,redis,aws,gcp,azure,kali,nginx,grafana,prometheus,tor&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,bash,linux,kali,docker,git,vscode,mysql,postgres,flask,django,pytorch,tensorflow,aws,azure&theme=dark" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Analytics & Graphs
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" height="230" alt="Top Languages Donut" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="230" alt="GitHub Stats" />
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" height="150" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" width="80%" alt="Streak Stats" />
 </div>
 
 <br>
