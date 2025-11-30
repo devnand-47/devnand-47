@@ -55,9 +55,17 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 📊 Skills & Proficiency (Terminal Mode)
-```text
-Python      [██████████░░] 80%
-Linux/Bash  [█████████░░░] 75%
-HTML        [███████░░░░░] 60%
-CSS         [██████░░░░░░] 50%
+### 📊 Analytics & Graphs
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
