@@ -58,13 +58,11 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 ### 📊 Analytics & Graphs
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=github-readme-stats&cache_seconds=0" height="180" alt="Top Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=0" height="180" alt="GitHub Stats" />
-  
-  <br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" height="180" alt="Streak Stats" />
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
