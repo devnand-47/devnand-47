@@ -57,7 +57,7 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 📊 Skills & Proficiency (Terminal Mode)
+### 📊 Skills & Proficiency
 <div align="center">
 
   <img src="https://progress-bar.dev/80/?title=Python&width=500&color=e53e3e&suffix=%" alt="Python Progress" />
@@ -73,14 +73,8 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 </div>
 
----
+<br>
 
-### 📈 Live Stats & Streak
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" alt="Dev_Nand's streak" />
-  <br>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-
 </div>
