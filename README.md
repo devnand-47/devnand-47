@@ -1,20 +1,9 @@
-<div align="center" style="position: relative;">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,200000,ff0000&height=300&section=header&text=&animation=fadeIn" width="100%" style="position: relative; z-index: 1;" />
-
-  <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); z-index: 2; width: 100%;">
-     <a href="https://git.io/typing-svg">
-       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=DEV_NAND;RED+TEAM+OPERATIONS;FULL+STACK+PYTHON;AI+ENGINEER;SECURITY+IS+A+PROCESS" alt="Typing SVG" />
-     </a>
-  </div>
-
-</div>
-
 <div align="center">
 
-  <img src="./red_team_logo.svg" alt="AGENT 47 Logo" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300000,ff0000&height=320&section=header&text=AGENT%2047&desc=RED%20TEAM%20OPERATIONS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=60&descSize=25" width="100%"/>
 
-  <br><br>
+  <h3>🛑 "Security is not a product — it's a process."</h3>
+
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=devnand-47&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Dev_Nand's trophies" />
   </a>
