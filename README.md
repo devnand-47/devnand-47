@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 I am a Python developer with a focus on **Cybersecurity** and **Discord Automation**. I build tools to scan for malicious links, prevent phishing, and secure online communities.
 
-* 🔭 I’m currently working on: **Anti-Phishing Discord Bots**
+* 🔭 I’m currently working on: ** Discord Bots**
 * 🐍 My main language: **Python**
 * 📫 Contact me: **[Your Email Here]**
 
