@@ -13,6 +13,13 @@
 
 ---
 
+### ⚠️ Legal Disclaimer
+> **The tools and scripts provided in this profile (SentinelX, HydraC2, OSINT-Tracer) are strictly for educational purposes and ethical security research.**
+>
+> The developer (`Dev_Nand`) is not responsible for any misuse or damage caused by these tools. All projects are intended to demonstrate **defensive security architectures** and **network simulations** in a controlled local environment.
+
+---
+
 ### 🔥 About Me
 I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI Engineer** specializing in advanced security tooling, real-time automation, and intelligent AI-driven systems. I am also a Computer Engineering student.
 
@@ -41,7 +48,7 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### 🛠️ Languages & Tools (The "Icon Bar")
+### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,bash,linux,kali,docker,git,vscode,mysql,postgres,flask,django,pytorch,tensorflow,aws,azure&theme=dark" />
 </div>
@@ -50,14 +57,15 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ### 📊 Analytics & Graphs
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117" height="230" alt="Top Languages Donut" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="230" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=github-readme-stats" height="180" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="GitHub Stats" />
   
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" width="80%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" height="180" alt="Streak Stats" />
+
 </div>
 
 <br>
