@@ -56,9 +56,10 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 ---
 
 ### 📊 Analytics & Graphs
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=3" height="180" alt="Top Languages Bar Graph" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=3&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
