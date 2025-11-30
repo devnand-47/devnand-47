@@ -4,20 +4,17 @@
 
   <h3>🛑 "Security is not a product — it's a process."</h3>
 
-  <p align="center">
-    <a href="mailto:devnandp05@gmail.com">
-      <img src="https://img.shields.io/badge/Email-devnandp05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/devnand-47">
-      <img src="https://img.shields.io/badge/GitHub-Dev__Nand-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=devnand-47&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Dev_Nand's trophies" />
+  </a>
+  <br><br>
+
 </div>
 
 ---
 
 ### 🔥 About Me
-I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI Engineer** specializing in advanced security tooling, real-time automation, and intelligent AI-driven systems.Also computer engineering student 
+I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI Engineer** specializing in advanced security tooling, real-time automation, and intelligent AI-driven systems. I am also a Computer Engineering student.
 
 * 🚀 **Building:** `HydraC2`, `NeuralMind AI Core`, and `ThreatVision`
 * ⚙️ **Expertise:** Red Team Automation, OSINT, C2 Systems, LLM Engineering
@@ -25,32 +22,29 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 
 ---
 
-### ⚡ Power Projects (Elite Tier)
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🕵️‍♂️ OSINT Tracer** | Multi-engine scanner with username tracking, metadata extraction & breach lookups. | `Python` `Requests` `Tor` |
-| **🐉 HydraC2** | Fully encrypted C2 panel with implant builder, job scheduler & live shell. | `Flask` `AES-256` `Socket` |
-| **🧠 NeuralMind** | Advanced RAG AI assistant with embeddings memory and offline LLM. | `PyTorch` `FAISS` `LLMs` |
-| **🛡️ SentinelX** | Enterprise-grade Discord anti-nuke bot with ML moderation & anomaly detection. | `Discord.py` `AsyncIO` `ML` |
-| **🕸️ WebHunter** | Distributed crawling system for subdomains, JS intel extraction & asset graphing. | `Scrapy` `Selenium` `Regex` |
-| **👁️ ThreatVision** | Live threat intel dashboard with real-time IoC scanning and map visualization. | `Flask` `APIs` `WebSockets` |
-| **🎙️ RVC Engine** | Ultra-low latency real-time voice changer for games with GPU optimization. | `RVC` `ONNX` `PyTorch` |
-
----
-
-### 🛠️ Tech Stack & Arsenal
+### 🤝 Connect With Me
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,pytorch,tensorflow,docker,linux,bash,git,mysql,postgres,selenium,redis,aws,gcp&theme=dark" />
+  <a href="https://www.instagram.com/dev__nand__">
+    <img src="https://img.shields.io/badge/Instagram-Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ag_ent_4_7">
+    <img src="https://img.shields.io/badge/Instagram-Agent_47-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/eQdNkVyd2j">
+    <img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord_ID-640509__0401_47-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="mailto:devnandp05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devnandp05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-### 🚀 Upcoming High-Value Targets
-* [ ] **LLM Agent Arena:** Multi-agent LLM orchestration for auto-pentesting.
-* [ ] **AutoSOC:** AI-powered SOC triage assistant for log correlation.
-* [ ] **BeaconX Builder:** Encrypted implant generator with modular comms.
-* [ ] **DockrShield:** Deep container security scanner for CVEs & secrets.
-* [ ] **MalwareLab Pro:** Local sandbox for static/dynamic malware inspection.
+### 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,pytorch,tensorflow,opencv,docker,kubernetes,linux,bash,git,mysql,postgres,mongodb,redis,aws,gcp,azure,kali,nginx,grafana,prometheus,tor&theme=dark" />
+</div>
 
 ---
 
@@ -58,7 +52,11 @@ I am a **Full Stack Python Developer**, **Cybersecurity Researcher**, and **AI E
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devnand-47&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnand-47&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" />
-</div>
-<div align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnand-47&theme=radical&hide_border=true&background=0d1117" height="150" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnand-47&theme=radical&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
